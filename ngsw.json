@@ -1,0 +1,59 @@
+{
+  "configVersion": 1,
+  "index": "/PWABonjour/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/PWABonjour/favicon.ico",
+        "/PWABonjour/index.html",
+        "/PWABonjour/inline.318b50c57b4eba3d437b.bundle.js",
+        "/PWABonjour/main.9615d3bbd95d6997ce99.bundle.js",
+        "/PWABonjour/polyfills.77d59861e39435768676.bundle.js",
+        "/PWABonjour/styles.ac89bfdd6de82636b768.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/PWABonjour/assets/android-chrome-192x192.png",
+        "/PWABonjour/assets/android-chrome-512x512.png",
+        "/PWABonjour/assets/apple-touch-icon.png",
+        "/PWABonjour/assets/browserconfig.xml",
+        "/PWABonjour/assets/favicon-16x16.png",
+        "/PWABonjour/assets/favicon-32x32.png",
+        "/PWABonjour/assets/favicon.ico",
+        "/PWABonjour/assets/mstile-150x150.png",
+        "/PWABonjour/assets/safari-pinned-tab.svg",
+        "/PWABonjour/assets/site.webmanifest",
+        "/PWABonjour/assets/Test.txt"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/PWABonjour/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/PWABonjour/assets/android-chrome-192x192.png": "31a83e7d8e0eba8673700200be0689dd1b8ac4a1",
+    "/PWABonjour/main.9615d3bbd95d6997ce99.bundle.js": "3bec74df94c2fc5610cac07b95f35d2239b3b925",
+    "/PWABonjour/assets/android-chrome-512x512.png": "dd9a7292f7a0a98b25c7fa63391d56bfe6d8f48a",
+    "/PWABonjour/polyfills.77d59861e39435768676.bundle.js": "beb3f7129447fb464639e25447ceb200fa2ba87e",
+    "/PWABonjour/assets/apple-touch-icon.png": "e166bfbc33e5b0ba73431a4a877c08b7b1ae40ee",
+    "/PWABonjour/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/PWABonjour/assets/browserconfig.xml": "974aea18bda5a95802c06b80126ab1d96d91d708",
+    "/PWABonjour/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/PWABonjour/assets/favicon-16x16.png": "4a88984803eada8bcf995b0678b0794d22f7f094",
+    "/PWABonjour/index.html": "11f16e26e5b68cc6c413cab846b1bb49101f350c",
+    "/PWABonjour/assets/favicon-32x32.png": "a4a711c80bbb89094ec7a92997f27f9e43fb3650",
+    "/PWABonjour/assets/favicon.ico": "c304969bdf31a8061b507a112365eed4fe0e3890",
+    "/PWABonjour/assets/mstile-150x150.png": "21641e959e5dc7a65ab384869ae4c3458d41ec77",
+    "/PWABonjour/assets/safari-pinned-tab.svg": "d6d7e92fd1399f7665a336a4e4fed0075121c549",
+    "/PWABonjour/assets/site.webmanifest": "13e5aa58eb2182d8ace63266856c8cc29c47c083",
+    "/PWABonjour/assets/Test.txt": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  }
+}
