@@ -1,7 +1,7 @@
 {
   "short_name":"Hello",
   "name":"Bonjour",
-  "start_url":"/",
+  "start_url":"/PWABonjour/",
   "theme_color":"#f48c5b",
   "background_color":"#ffffff",
   "display":"standalone",
